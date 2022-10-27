@@ -1,0 +1,4 @@
+# rust build artifacts
+/target
+# gb ROMs
+*.gb
